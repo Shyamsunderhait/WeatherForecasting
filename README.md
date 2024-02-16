@@ -12,3 +12,5 @@ Responsive Design: Ensuring a seamless user experience across various devices an
 Technologies Used:
 HTML, CSS, JavaScript: Used for frontend development.
 OpenWeather API: Used to fetch weather data for different locations.
+
+Link : https://weatherforecastappbyshyam.netlify.app/
